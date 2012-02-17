@@ -23,7 +23,7 @@ $subdomain = $urlParts[0];
 
 if( $_SERVER['HTTP_HOST'] == 'jamesming.whsites.net' ){
 	$config['base_url']	= "http://jamesming.whsites.net/a3";	
-;
+};
 
 	
 
